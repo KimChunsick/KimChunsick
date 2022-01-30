@@ -1,12 +1,33 @@
-![hero](https://github.com/BangChunDeok/BangChunDeok/blob/master/IMAGES/hero2.gif)
+<!-- ![hero](./IMAGES/call_me.png) -->
+<div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimChunsick%2Fhit-counter&count_bg=%23000000&title_bg=%23FDD610&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
 
-### HELLLLLLLLLLLLLLLLLLO! 🤪[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBangChunDeok)](https://hits.seeyoufarm.com)
-웹 프론트엔드 개발자 김춘식 입니다! 몸으로 직접 부딪히며 배우는 방법을 좋아하고 비즈니스를 우선순위로 두고 개발을 하고 있습니다.
+<div align="center">
+<h3>
+  If you don't know, learn.<br/>
+  Make the impossible possible.
+</h3>
+</div>
+<br />
 
-> 그리고 특히 갬성 있는 것과 고양이를 좋아해요! 
+***Hello***, I'm software engineer Kim Deok-won (aka. Kim Chunsik).
 
+I work as a developer in Korea :kr: (yeap. absolutely south) and I like how to learn by bumping into my body.
 
-저에 대해서 궁금하신 게 있으시다면 아래 블로그 혹은 이력서 페이지를 참고해주세요!
-* [블로그](https://kimchunsick.me/)
-* [이력서](https://kimchunsick.me/resume/)
+Whatever we do, we try to proceed as much as possible.
 
+If you're interested in me, please refer to the link below!
+<p>
+
+<ul style="display: inline; max-width: 50%">
+  <li>
+    <a href="https://kimchunsick.me/">Blog</a>
+  </li>
+  <li>
+    <a href="https://kimchunsick.me/resume/">Resume</a>
+  </li>
+</ul>
+
+<img src="./IMAGES/call_me.png" style="max-width: 40%">
+</p>
