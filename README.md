@@ -14,7 +14,7 @@
 
 I work as a *FullStack Developer* in Republic of Korea (yeap. absolutely south) and I like learning based on experience.
 
-Enjoy using every possible way to achieve your goal.
+Enjoy using every possible way to achieve goal.
 
 If you're interested in me, please refer to the link below!
 
