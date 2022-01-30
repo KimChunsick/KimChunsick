@@ -12,7 +12,7 @@
 
 ***Hello***, I'm software engineer Kim Deok-won (aka. Kim Chunsik).
 
-I work as a developer in Korea :kr: (yeap. absolutely south) and I like how to learn by bumping into my body.
+I work as a *FullStack Developer* in Korea :flag_kr: (yeap. absolutely south) and I like how to learn by bumping into my body.
 
 Whatever we do, we try to proceed as much as possible.
 
