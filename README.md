@@ -12,18 +12,11 @@
 
 ***Hello***, I'm software engineer Kim Deok-won (aka. Kim Chunsik).
 
-I work as a *FullStack Developer* in Republic of Korea (yeap. absolutely south) and I like learning based on experience.
+I work as a *Software Engineer* in Republic of Korea (yeap. absolutely south) and I like learning based on experience.
 
-Enjoy using every possible way to achieve goal.
+also most interested in the ecosystem of the web.
 
 If you're interested in me, please refer to the link below!
 
 * [Blog](https://kimchunsick.me/)
 * [Resume](https://kimchunsick.me/resume/)
-
-<div align="center">
-
-![Contact me bruh](./IMAGES/call_me.png)
-Contact me bruh
-
-</div>
